@@ -96,7 +96,7 @@ iframe {
   border: 0;
 }
 
-.kontak {
+/* .kontak {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -115,9 +115,9 @@ iframe {
 }
 
 .kontak a:hover {
-  background-color: #c3ced6;
+  background-color: ;
   border: 1px solid;
-}
+} */
 
 /* Footer */
 
